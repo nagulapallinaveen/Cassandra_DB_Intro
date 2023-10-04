@@ -1,0 +1,242 @@
+[
+  {
+    "_id": {
+      "$oid": "651251948daa1445355231fb"
+    },
+    "model": "iPhone 15 Pro Max",
+    "condition": "New",
+    "price": 1543,
+    "release_year": 2023,
+    "color": "silver"
+  },
+  {
+    "_id": {
+      "$oid": "651251948daa1445355231fc"
+    },
+    "model": "iPhone 15 Pro Max",
+    "condition": "Refurbished",
+    "price": 1109,
+    "release_year": 2023,
+    "color": "black"
+  },
+  {
+    "_id": {
+      "$oid": "651251948daa1445355231fd"
+    },
+    "model": "iPhone 15 Pro Max",
+    "condition": "Used (Like New)",
+    "price": 901,
+    "release_year": 2023,
+    "color": "green"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa1445355231fe"
+    },
+    "model": "iPhone 15 Pro",
+    "condition": "New",
+    "price": 1375,
+    "release_year": 2023,
+    "color": "black"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa1445355231ff"
+    },
+    "model": "iPhone 15 Pro",
+    "condition": "Refurbished",
+    "price": 929,
+    "release_year": 2023,
+    "color": "green"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523200"
+    },
+    "model": "iPhone 15 Pro",
+    "condition": "Used (Like New)",
+    "price": 825,
+    "release_year": 2023,
+    "color": "black"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523201"
+    },
+    "model": "iPhone 15 Plus",
+    "condition": "New",
+    "price": 1023,
+    "release_year": 2023,
+    "color": "green"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523202"
+    },
+    "model": "iPhone 15 Plus",
+    "condition": "Refurbished",
+    "price": 851,
+    "release_year": 2023,
+    "color": "gold"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523203"
+    },
+    "model": "iPhone 15 Plus",
+    "condition": "Used (Like New)",
+    "price": 785,
+    "release_year": 2023,
+    "color": "gold"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523204"
+    },
+    "model": "iPhone 15",
+    "condition": "New",
+    "price": 966,
+    "release_year": 2023,
+    "color": "green"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523205"
+    },
+    "model": "iPhone 15",
+    "condition": "Refurbished",
+    "price": 765,
+    "release_year": 2023,
+    "color": "red"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523206"
+    },
+    "model": "iPhone 15",
+    "condition": "Used (Like New)",
+    "price": 635,
+    "release_year": 2023,
+    "color": "black"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523207"
+    },
+    "model": "iPhone 14 Plus",
+    "condition": "New",
+    "price": 927,
+    "release_year": 2022,
+    "color": "green"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523208"
+    },
+    "model": "iPhone 14 Plus",
+    "condition": "Refurbished",
+    "price": 790,
+    "release_year": 2022,
+    "color": "red"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523209"
+    },
+    "model": "iPhone 14 Plus",
+    "condition": "Used (Like New)",
+    "price": 677,
+    "release_year": 2022,
+    "color": "black"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa14453552320a"
+    },
+    "model": "iPhone 14",
+    "condition": "New",
+    "price": 915,
+    "release_year": 2022,
+    "color": "green"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa14453552320b"
+    },
+    "model": "iPhone 14",
+    "condition": "Refurbished",
+    "price": 615,
+    "release_year": 2022,
+    "color": "silver"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa14453552320c"
+    },
+    "model": "iPhone 14",
+    "condition": "Used (Like New)",
+    "price": 516,
+    "release_year": 2022,
+    "color": "silver"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa14453552320d"
+    },
+    "model": "iPhone 13",
+    "condition": "New",
+    "price": 638,
+    "release_year": 2021,
+    "color": "silver"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa14453552320e"
+    },
+    "model": "iPhone 13",
+    "condition": "Refurbished",
+    "price": 576,
+    "release_year": 2021,
+    "color": "gold"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa14453552320f"
+    },
+    "model": "iPhone 13",
+    "condition": "Used (Like New)",
+    "price": 413,
+    "release_year": 2021,
+    "color": "black"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523210"
+    },
+    "model": "iPhone SE",
+    "condition": "New",
+    "price": 464,
+    "release_year": 2021,
+    "color": "silver"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523211"
+    },
+    "model": "iPhone SE",
+    "condition": "Refurbished",
+    "price": 415,
+    "release_year": 2021,
+    "color": "silver"
+  },
+  {
+    "_id": {
+      "$oid": "651251958daa144535523212"
+    },
+    "model": "iPhone SE",
+    "condition": "Used (Like New)",
+    "price": 360,
+    "release_year": 2021,
+    "color": "black"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "color": "silver",
+    "year": 2023,
+    "avg_price": 1543.0
+  },
+  {
+    "color": "black",
+    "year": 2023,
+    "avg_price": 986.0
+  },
+  {
+    "color": "green",
+    "year": 2023,
+    "avg_price": 954.75
+  },
+  {
+    "color": "green",
+    "year": 2022,
+    "avg_price": 921.0
+  },
+  {
+    "color": "gold",
+    "year": 2023,
+    "avg_price": 818.0
+  },
+  {
+    "color": "red",
+    "year": 2022,
+    "avg_price": 790.0
+  },
+  {
+    "color": "red",
+    "year": 2023,
+    "avg_price": 765.0
+  },
+  {
+    "color": "black",
+    "year": 2022,
+    "avg_price": 677.0
+  },
+  {
+    "color": "silver",
+    "year": 2022,
+    "avg_price": 565.5
+  }
+]
